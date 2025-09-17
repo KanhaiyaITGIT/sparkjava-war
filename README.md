@@ -1,6 +1,5 @@
 ## sparkjava-war-example.
-Build war with maven and sparkjava framework....
-why am i supposed to download
+Build war with maven and sparkjava framework.
 
 Steps:--
 
